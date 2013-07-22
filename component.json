@@ -1,7 +1,10 @@
 {
 	"name": "handsontable",
 	"version": "0.9.9",
-	"main": ["./dist/jquery.handsontable.full.js", "./dist/jquery.handsontable.full.css"],
+	"scripts": [
+		"./dist/jquery.handsontable.full.js",
+	],
+	"main": "./dist/jquery.handsontable.full.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
