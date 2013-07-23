@@ -2,9 +2,9 @@
 	"name": "handsontable",
 	"version": "0.9.9",
 	"scripts": [
-		"./dist/jquery.handsontable.full.js"
+		"index.js"
 	],
-	"main": "./dist/jquery.handsontable.full.js",
+	"main": "index.js",
 	"styles": [
 		"./dist/jquery.handsontable.full.css"
 	],
