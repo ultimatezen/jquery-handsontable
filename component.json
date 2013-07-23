@@ -1,5 +1,5 @@
 {
-	"name": "handsontable",
+	"name": "jquery-handsontable",
 	"version": "0.9.9",
 	"scripts": [
 		"./dist/jquery.handsontable.js"
