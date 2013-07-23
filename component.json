@@ -4,11 +4,17 @@
 	"scripts": [
 		"./dist/jquery.handsontable.full.js",
 	],
-	"main": "./dist/jquery.handsontable.full.js",
+	"styles": [
+		"component/jquery": "*"
+	],
 	"ignore": [
 		"**/.*",
 		"node_modules",
 		"components"
+	],
+	"keywords": [
+		"ui",
+		"jquery"
 	],
 	"paths": [
 		"lib"
