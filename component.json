@@ -2,10 +2,10 @@
 	"name": "handsontable",
 	"version": "0.9.9",
 	"scripts": [
-		"./dist/jquery.handsontable.full.js",
+		"./dist/jquery.handsontable.full.js"
 	],
 	"styles": [
-		"component/jquery": "*"
+		"./dist/jquery.handsontable.full.css"
 	],
 	"ignore": [
 		"**/.*",
