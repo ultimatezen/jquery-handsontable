@@ -17,8 +17,7 @@
 		"components"
 	],
 	"keywords": [
-		"ui",
-		"jquery"
+		"ui"
 	],
 	"paths": [
 		"lib"
