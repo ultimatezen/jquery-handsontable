@@ -4,6 +4,7 @@
 	"scripts": [
 		"./dist/jquery.handsontable.full.js"
 	],
+	"main": "./dist/jquery.handsontable.full.js",
 	"styles": [
 		"./dist/jquery.handsontable.full.css"
 	],
